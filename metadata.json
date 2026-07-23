@@ -1,0 +1,6 @@
+{
+  "name": "Trang Sách Ru Ngủ Tương Tác",
+  "description": "Ứng dụng truyện tranh ru ngủ tương tác với hiệu ứng lật trang, âm thanh synth ngẫu hứng Web Audio API, hạt ánh sáng và minigame thư giãn cho trẻ em.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
